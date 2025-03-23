@@ -1,0 +1,7 @@
+D:\Repositorios\cursoSasfCSharp\cursoSasfCSharp\bin\Debug\cursoSasfCSharp.exe.config
+D:\Repositorios\cursoSasfCSharp\cursoSasfCSharp\bin\Debug\cursoSasfCSharp.exe
+D:\Repositorios\cursoSasfCSharp\cursoSasfCSharp\bin\Debug\cursoSasfCSharp.pdb
+D:\Repositorios\cursoSasfCSharp\cursoSasfCSharp\obj\Debug\cursoSasfCSharp.csproj.AssemblyReference.cache
+D:\Repositorios\cursoSasfCSharp\cursoSasfCSharp\obj\Debug\cursoSasfCSharp.csproj.CoreCompileInputs.cache
+D:\Repositorios\cursoSasfCSharp\cursoSasfCSharp\obj\Debug\cursoSasfCSharp.exe
+D:\Repositorios\cursoSasfCSharp\cursoSasfCSharp\obj\Debug\cursoSasfCSharp.pdb
